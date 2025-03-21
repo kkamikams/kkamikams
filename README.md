@@ -2,6 +2,7 @@
 
 #  🌸 About Me:
 📖 A 1st Year BSIT Student
+
 ⌨ I'm currently learning python
 
 # 💻 Tech Stack:
