@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, you can call me kam!</h1>
-<h3 align="center">A 1st Years BSIT Student</h3>
 
 #  🌸 About Me:
+📖 A 1st Year BSIT Student
 ⌨ I'm currently learning python
 
 # 💻 Tech Stack:
