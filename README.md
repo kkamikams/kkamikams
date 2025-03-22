@@ -9,7 +9,7 @@
 </div>
 
 - 📚 A passionate **1st-year BSIT student** from the Philippines.  
-- 💻 Currently learning **Python** and enhancing my **web development skills**.  
+- 💻 Currently learning **Python** and exploring **Web Development**.  
 - 🎨 I enjoy designing with **Canva and Figma**.  
 
 ---
@@ -22,9 +22,9 @@
 
 ### 🏅 Badges  
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva Badge"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma Badge"/>
+  <img src="https://img.shields.io/badge/-Python-FF69B4?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-Canva-FF69B4?logo=canva&logoColor=white&style=for-the-badge" alt="Canva Badge"/>
+  <img src="https://img.shields.io/badge/-Figma-FF69B4?logo=figma&logoColor=white&style=for-the-badge" alt="Figma Badge"/>
 </div>
 
 ---
