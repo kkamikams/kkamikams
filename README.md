@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/00000000-banner.png" alt="Welcome to Kam's Profile" width="90%" style="border-radius: 15px;"/>
-</div>
-
----
-
 <h1 align="center">Hi, I'm Kam! 🌷✨</h1>  
 <h3 align="center">🌸 1st-year BSIT Student | Learning Python 💖</h3>  
 
