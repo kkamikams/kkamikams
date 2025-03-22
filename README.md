@@ -5,7 +5,7 @@
 
 ### 🌼 About Me  
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkM2I4M2JhNDhmZDI1MjNhMjVjYjJlNDVjNzUyZjA2OWM0ZjNmMiZjdD1n/Yl5aO3gdVfsQ0/giphy.gif" width="150"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtsN2V6bnB1cm96NWYxc3R1NTl0dmhhejZybXMxNGg5djU1anhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="150"/>
 </div>
 
 - 📚 A passionate **1st-year BSIT student** from the Philippines.  
