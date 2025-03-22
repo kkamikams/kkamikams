@@ -1,14 +1,33 @@
-# Hi, I'm Kam 👋  
-
-I'm a **1st-year BSIT student** from the Philippines, passionate about **Web Development and Programming**.  
-Currently learning **Python** and exploring creative design with **Canva and Figma**.  
+<h1 align="center">Hi, I'm Kam! 🌷✨</h1>  
+<h3 align="center">🌸 1st-year BSIT Student | Learning Python | Creative with Canva & Figma 💖</h3>  
 
 ---
 
-### 🌱 What I'm Learning  
-- **Python Programming**  
-- **Web Development Fundamentals**  
-- **UI/UX Design with Canva & Figma**
-  
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd1dc) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🌼 About Me  
+- 📚 A passionate **1st-year BSIT student** from the Philippines.  
+- 💻 Currently learning **Python** and enhancing my **web development skills**.  
+- 🎨 I enjoy designing with **Canva and Figma**.    
+
+---
+
+### 🌺 What I'm Learning  
+- 🌟 **Python Programming**  
+- 🌟 **Web Development Fundamentals**  
+- 🌟 **UI/UX Design with Canva & Figma**  
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kam&show_icons=true&theme=rose_pine" alt="Kam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kam&layout=compact&theme=rose_pine" alt="Top Languages" />
+</div>
+
+---
+
+### 💌 Connect With Me  
+- 📧 Email: relosa.uoiekatee@gmail.com 
+
+---
+
+### 🎀 Let's build something beautiful together! 🌷💖  
