@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, you can call me kam!</h1>
+# Hi, I'm Kam 👋  
 
-#  🌸 About Me:
-📖 A 1st Year BSIT Student
+I'm a **1st-year BSIT student** from the Philippines, passionate about **Web Development and Programming**.  
+Currently learning **Python** and exploring creative design with **Canva and Figma**.  
 
-⌨ I'm currently learning python
+---
 
+### 🌱 What I'm Learning  
+- **Python Programming**  
+- **Web Development Fundamentals**  
+- **UI/UX Design with Canva & Figma**
+  
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd1dc) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
