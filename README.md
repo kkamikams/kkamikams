@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kam! 🌷✨</h1>  
-<h3 align="center">🌸 1st-year BSIT Student | Learning Python </h3>  
+<h3 align="center">🌸 2nd-year BSIT Student </h3>  
 
 ---
 
@@ -8,16 +8,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtsN2V6bnB1cm96NWYxc3R1NTl0dmhhejZybXMxNGg5djU1anhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="150"/>
 </div>
 
-- 📚 A **1st-year BSIT student** from the Philippines.  
-- 💻 Currently learning **Python** and exploring **Web Development**.  
+- 📚 A **2nd-year BSIT student** from the Philippines.  
+- 💻 Currently learning **Java** and exploring **Web Development**.  
 - 🎨 I enjoy designing with **Canva and Figma**.  
 
----
-
-### 🌺 What I'm Learning  
-- 🌟 **Python Programming**  
-- 🌟 **Web Development Fundamentals**
-  
 ---
 
 ### 🏅 Badges  
