@@ -9,26 +9,5 @@
 </div>
 
 - 📚 A **2nd-year BSIT student** from the Philippines.  
-- 💻 Currently learning **Java** and exploring **Web Development**.  
-- 🎨 I enjoy designing with **Canva and Figma**.  
-
----
-
-### 🏅 Badges  
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-FF69B4?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/-Canva-FF69B4?logo=canva&logoColor=white&style=for-the-badge" alt="Canva Badge"/>
-  <img src="https://img.shields.io/badge/-Figma-FF69B4?logo=figma&logoColor=white&style=for-the-badge" alt="Figma Badge"/>
-</div>
-
----
-
-### 💌 Connect With Me  
-- 📧 Email: **relosa.uoiekatee@gmail.com**
-
----
-
-### 🎀 Let's build something beautiful together! 🌷💖  
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
-</div>
+- 💻 Currently learning **Java**.  
+- 🎨 I enjoy designing with **Canva and Figma**. 
